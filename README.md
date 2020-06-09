@@ -28,7 +28,8 @@ or [VsCode live server plugin](https://marketplace.visualstudio.com/items?itemNa
 
 
 ## Recommendation
-[Netbean Glassfish/Tomcat support bundle](https://netbeans.org/downloads/8.2/rc/)
+[Netbean Glassfish/Tomcat support bundle](https://netbeans.org/downloads/8.2/rc/)  
+[VsCode live server plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 
 ## Installing and Running
